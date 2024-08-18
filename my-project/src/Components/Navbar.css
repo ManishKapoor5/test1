@@ -1,0 +1,24 @@
+.navbar{
+    height: 13vh;
+    width: 98.5vw;
+    background-color: #2874f0;
+}
+.navbar1{
+    height: 13vh;
+    width: 98.5vw;
+    background-color: #2874f0;
+}
+.ecommerceplus{
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer;;
+}
+
+.cartNavbar{
+    display: flex;
+}

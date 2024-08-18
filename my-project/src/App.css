@@ -1,0 +1,40 @@
+*{
+  margin: 0%;
+}
+
+.AppName{
+  font: 1em sans-serif;
+}
+.bookPage{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.bookframe{
+  margin: 1%;
+  border: 1px solid black;
+  width: 18vw;
+}
+
+.bookDescription{
+  display: flex;
+  flex-direction: column;
+  padding-left: 10%;
+}
+
+.circle{
+  bottom: 13%;
+  left:73%;
+  position: relative;
+}
+
+.cart{
+  position: relative;
+  right: 1%;
+}
+
+img{
+  width: 121px;
+  height: 121px;
+}
